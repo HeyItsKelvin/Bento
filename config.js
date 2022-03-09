@@ -135,24 +135,28 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'youtube',
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Youtube',
+          link: 'https://youtube.com',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Twitch',
+          link: 'https://twitch.tv',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Crunchyroll',
+          link: 'https://crunchyroll.com',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Netflix',
+          link: 'https://netflix.com',
+        },
+        {
+          name: 'Plex',
+          link: 'http://heyyitskelvin.ddns.net:7118',
         },
       ],
     },
@@ -161,20 +165,20 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Facebook',
+          link: 'https://facebook.com',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Twitter',
+          link: 'https://twitter.com',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Instagram',
+          link: 'https://instagram.com',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Reddit',
+          link: 'https://reddit.com',
         },
       ],
     },
